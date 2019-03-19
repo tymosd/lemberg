@@ -2,7 +2,9 @@
 
 Hello new code here.
 
-How's it going?
-
 
 <h2>New Text</h2>
+
+How's it going?
+
+Some text 1
